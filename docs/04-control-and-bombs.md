@@ -103,6 +103,7 @@
 
 ## 相关内容
 
+- [牌权训练 01：对手炸自己的对家，要不要跟炸](../examples/03-control-and-bombs.md)
 - [整理一手牌](02-hand-organization.md)
 - [搭档配合](05-partnership.md)
 - [残局判断](06-endgame.md)
