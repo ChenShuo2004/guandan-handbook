@@ -111,6 +111,7 @@
 
 ## 相关内容
 
+- [残局训练 01：对手剩 5 张，不必先猜是哪一手](../examples/05-endgame.md)
 - [记牌与未知信息](03-card-memory.md)
 - [牌权与炸弹](04-control-and-bombs.md)
 - [训练与复盘](07-training.md)
