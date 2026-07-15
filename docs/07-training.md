@@ -118,3 +118,4 @@
 - [学习路径](00-learning-path.md)
 - [整理一手牌](02-hand-organization.md)
 - [残局判断](06-endgame.md)
+- [完整复盘示范 01：赢了这一局，也不代表大王压得对](../examples/06-review.md)

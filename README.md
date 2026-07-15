@@ -26,6 +26,7 @@
 - [牌权 01：对手炸自己的对家，要不要跟炸](examples/03-control-and-bombs.md)
 - [配合 01：对家只剩一张，你能压住单张要不要压](examples/04-partnership.md)
 - [残局 01：对手剩 5 张，不必先猜是哪一手](examples/05-endgame.md)
+- [复盘 01：赢了这一局，也不代表大王压得对](examples/06-review.md)
 
 如果你已经能稳定完成一局，可以直接从自己的卡点进入：
 
@@ -84,7 +85,8 @@
 │   ├── 02-card-memory.md
 │   ├── 03-control-and-bombs.md
 │   ├── 04-partnership.md
-│   └── 05-endgame.md
+│   ├── 05-endgame.md
+│   └── 06-review.md
 └── references/         # 规则口径与材料来源
     ├── rule-versions.md
     └── sources.md

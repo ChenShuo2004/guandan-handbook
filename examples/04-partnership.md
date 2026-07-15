@@ -195,3 +195,4 @@
 - [牌权与炸弹](../docs/04-control-and-bombs.md)
 - [残局判断](../docs/06-endgame.md)
 - [训练与复盘](../docs/07-training.md)
+- [复盘示范 01：赢了这一局，也不代表大王压得对](06-review.md)
