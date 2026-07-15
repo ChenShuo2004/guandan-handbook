@@ -108,6 +108,7 @@
 
 ## 相关内容
 
+- [配合训练 01：对家只剩一张，你能压住单张要不要压](../examples/04-partnership.md)
 - [牌权与炸弹](04-control-and-bombs.md)
 - [残局判断](06-endgame.md)
 - [牌桌之外](08-beyond-the-game.md)

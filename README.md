@@ -24,6 +24,7 @@
 - [组牌 01：同样七手，留下单 4 还是单 9](examples/01-hand-organization.md)
 - [记牌 01：K 什么时候才真正成为最大单张](examples/02-card-memory.md)
 - [牌权 01：对手炸自己的对家，要不要跟炸](examples/03-control-and-bombs.md)
+- [配合 01：对家只剩一张，你能压住单张要不要压](examples/04-partnership.md)
 
 如果你已经能稳定完成一局，可以直接从自己的卡点进入：
 
@@ -80,7 +81,8 @@
 ├── examples/           # 完整手牌与局面练习
 │   ├── 01-hand-organization.md
 │   ├── 02-card-memory.md
-│   └── 03-control-and-bombs.md
+│   ├── 03-control-and-bombs.md
+│   └── 04-partnership.md
 └── references/         # 规则口径与材料来源
     ├── rule-versions.md
     └── sources.md
