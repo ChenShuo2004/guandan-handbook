@@ -4,6 +4,8 @@
 
 这里不收集零散口诀，也不把某一种牌桌经验写成唯一答案。我们从规则开始，逐步讨论组牌、记牌、牌权、炸弹、搭档配合和残局判断，并把每个主题写成可以阅读、练习和复盘的独立文件。
 
+知识库链接：[掼蛋：一场牌里的判断、合作与人情](https://flowus.cn/f2a827f6-612f-4bdb-a399-17fcfaa56895)
+
 | [产品 1](https://aiyouwendu.com/products/guandan-trainer) | [产品 2](https://guandan-beta.vercel.app/) |
 | --- | --- |
 | [![产品 1：掼蛋训练页面预览](assets/guandan-trainer.png)](https://aiyouwendu.com/products/guandan-trainer) | [![产品 2：掼蛋记牌训练页面预览](assets/guandan-memory-lab.png)](https://guandan-beta.vercel.app/) |
