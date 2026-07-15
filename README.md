@@ -19,7 +19,10 @@
 7. [残局判断](docs/06-endgame.md)
 8. [训练与复盘](docs/07-training.md)
 
-完成基础阅读后，可以进入第一个完整练习：[同样七手，留下单 4 还是单 9](examples/01-hand-organization.md)。
+完成基础阅读后，可以进入完整练习：
+
+- [组牌 01：同样七手，留下单 4 还是单 9](examples/01-hand-organization.md)
+- [记牌 01：K 什么时候才真正成为最大单张](examples/02-card-memory.md)
 
 如果你已经能稳定完成一局，可以直接从自己的卡点进入：
 
@@ -74,7 +77,8 @@
 │   ├── 07-training.md
 │   └── 08-beyond-the-game.md
 ├── examples/           # 完整手牌与局面练习
-│   └── 01-hand-organization.md
+│   ├── 01-hand-organization.md
+│   └── 02-card-memory.md
 └── references/         # 规则口径与材料来源
     ├── rule-versions.md
     └── sources.md

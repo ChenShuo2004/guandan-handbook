@@ -105,6 +105,7 @@
 
 ## 相关内容
 
+- [记牌训练 01：K 什么时候才真正成为最大单张](../examples/02-card-memory.md)
 - [牌权与炸弹](04-control-and-bombs.md)
 - [残局判断](06-endgame.md)
 - [训练与复盘](07-training.md)
