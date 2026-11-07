@@ -1,3 +1,5 @@
+> **English:** A Chinese-language Guandan knowledge base organized as a learning path, from rules and card combinations to memory, partnership, and endgame decisions.
+
 # 掼蛋知识库
 
 一份按学习路径组织的掼蛋中文知识库。
